@@ -1,0 +1,78 @@
+code
+{
+	background: black;
+	color: #fff;
+	font-family: verdana;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #000000, 0 0 0.2em #000000;
+	font-size: 2rem;
+	border: 2px solid #39896c;
+	box-shadow: 0 0 30px #39896c;
+	display: block;
+	text-align: center;
+}
+
+section
+{
+
+	float: left;
+	width: 30%;
+	height: 400px;
+	border: 2px solid #39896c;
+	box-shadow: 0 0 30px #39896c;
+	border-radius: 6px;
+}
+
+section, header
+{
+	margin: 0 1.5% 24px 1.5%;
+}
+
+footer
+{
+	clear: both;
+
+}
+
+.c1
+{
+	color: #01FCDE;
+	text-shadow: 1px 1px 2px #000000, 0 0 1em #000000, 0 0 0.2em #000000;
+	margin: 1em 0.5em 0 1em;
+	font-family: Verdana, cursive;
+	font-size: 1.2em;
+}
+
+.c2
+{
+	color: white;
+	font-size: 1.2em;
+	text-shadow: 5px 5px 2px #000000, 5px 5px 1em #000000, 5px 5px 1.2em #000000;
+	margin: 1em 1em 0 1em;
+	font-family: Verdana;
+}
+
+.s1
+{
+	background: black;
+	background-size: cover;
+	background-repeat: no-repeat;;
+}
+
+.s2
+{
+	background: black;	
+	background-size: cover;
+	background-repeat: no-repeat;;
+}
+
+body
+{
+	background: url(https://i.pinimg.com/originals/4a/4d/d6/4a4dd63e1abc8ae1d8e16c3332409100.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+img
+{
+	opacity: 0.9;
+}
